@@ -1,8 +1,8 @@
 [
     {
       "id": 1,
-      "picture": "https://img.freepik.com/free-photo/portrait-elderly-chef-dressed-uniform-with-crossed-arms-against-dark-background_613910-17580.jpg?size=626&ext=jpg&ga=GA1.1.670690934.1670350375&semt=robertav1_2_sidr",
-      "name": "Giovanni Rossi",
+      "picture": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+      "name": " Rossi",
       "years_of_experience": 15,
       "likes": 1350,
       "description": "Giovanni is a passionate chef who has been cooking Italian food for over 15 years. He loves experimenting with new ingredients and techniques to create unique and delicious dishes.",
@@ -50,7 +50,7 @@
     },
     {
       "id": 2,
-      "picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?size=626&ext=jpg&ga=GA1.1.670690934.1670350375&semt=robertav1_2_sidr",    
+      "picture": "https://plus.unsplash.com/premium_photo-1663040314023-22ec62c123a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",    
       "name": "Sofia Bianchi",
       "years_of_experience": 10,
       "likes": 950,
@@ -99,7 +99,7 @@
     },
     {
       "id": 3,
-      "picture": "https://img.freepik.com/free-photo/female-cook-showing-heart-gesture-uniform-apron-looking-happy-front-view_176474-62886.jpg?size=626&ext=jpg&ga=GA1.2.670690934.1670350375&semt=robertav1_2_sidr",
+      "picture": "https://plus.unsplash.com/premium_photo-1664910384914-c70b3e228dcb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
       "name": "Isabella Conti",
       "years_of_experience": 18,
       "likes": 1380,
@@ -148,7 +148,7 @@
     },
     {
       "id": 4,
-      "picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-cap-holding-bowl-with-smile-green-wall_140725-26376.jpg?size=626&ext=jpg&ga=GA1.2.670690934.1670350375&semt=robertav1_2_sidr",
+      "picture": "https://media.istockphoto.com/id/1450134057/photo/female-chef-holding-some-fresh-cookies.jpg?s=1024x1024&w=is&k=20&c=PMLbt3zUvEsHWSvjtk-gMlDtlD9Xgm5ZMRTF3GGNt8k=",
       "name": "Caterina Moretti",
       "years_of_experience": 13,
       "likes": 1152,
@@ -202,7 +202,7 @@
     },
     {
       "id": 5,
-      "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?size=626&ext=jpg&ga=GA1.2.670690934.1670350375&semt=robertav1_2_sidr",
+      "picture": "https://images.unsplash.com/photo-1576237680582-75be01432ca6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
       "name": "Marco Rossi",
       "years_of_experience": 15,
       "likes": 1768,
@@ -253,7 +253,7 @@
     },
     {
       "id": 6,
-      "picture": "https://img.freepik.com/premium-photo/asian-male-chef-yellow_296537-1161.jpg?size=626&ext=jpg&ga=GA1.2.670690934.1670350375&semt=robertav1_2_sidr",
+      "picture": "https://plus.unsplash.com/premium_photo-1666299616051-e4f0014b31a6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
       "name": "Giovanni Ferrari",
       "years_of_experience": 16,
       "likes": 1451,
