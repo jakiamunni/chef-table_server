@@ -1,0 +1,311 @@
+[
+    {
+      "id": 1,
+      "picture": "https://img.freepik.com/free-photo/portrait-elderly-chef-dressed-uniform-with-crossed-arms-against-dark-background_613910-17580.jpg?size=626&ext=jpg&ga=GA1.1.670690934.1670350375&semt=robertav1_2_sidr",
+      "name": "Giovanni Rossi",
+      "years_of_experience": 15,
+      "likes": 1350,
+      "description": "Giovanni is a passionate chef who has been cooking Italian food for over 15 years. He loves experimenting with new ingredients and techniques to create unique and delicious dishes.",
+      "recipes": [
+        {
+          "_id":11,
+          "name": "Spaghetti Carbonara",
+          "ingredients": [
+            "spaghetti",
+            "pancetta",
+            "eggs",
+            "Parmesan cheese",
+            "black pepper"
+          ],
+          "cooking_method": "Cook the spaghetti in a large pot of salted boiling water until al dente. In a large skillet, cook the pancetta until crisp. In a bowl, whisk together the eggs, Parmesan cheese, and black pepper. Drain the spaghetti, reserving some of the pasta water. Add the spaghetti to the skillet with the pancetta and toss to coat. Remove from heat and add the egg mixture, stirring quickly to combine. If the pasta seems dry, add some of the reserved pasta water.",
+          "rating": 4.5
+        },
+        {
+          "_id":12,
+          "name": "Margherita Pizza",
+          "ingredients": [
+            "pizza dough",
+            "tomato sauce",
+            "mozzarella cheese",
+            "fresh basil",
+            "olive oil"
+          ],
+          "cooking_method": "Preheat your oven to 500°F. Roll out the pizza dough and transfer it to a baking sheet. Spread tomato sauce over the dough, leaving a small border around the edges. Sprinkle mozzarella cheese over the sauce. Bake the pizza for 10-12 minutes, or until the crust is golden brown and the cheese is melted and bubbly. Remove from the oven and sprinkle with fresh basil and a drizzle of olive oil.",
+          "rating": 4.8
+        },
+        {
+          "_id":13,
+          "name": "Tiramisu",
+          "ingredients": [
+            "ladyfingers",
+            "mascarpone cheese",
+            "eggs",
+            "sugar",
+            "espresso"
+          ],
+          "cooking_method": "Separate the egg yolks from the whites. In a large bowl, beat the egg yolks and sugar until light and fluffy. Add the mascarpone cheese and mix until smooth. In a separate bowl, beat the egg whites until stiff peaks form. Gently fold the egg whites into the mascarpone mixture. Dip the ladyfingers in the espresso and arrange them in a single layer in a baking dish. Spread the mascarpone mixture over the ladyfingers. Repeat with another layer of ladyfingers and mascarpone. Refrigerate for at least 2 hours before serving.",
+          "rating": 4.7
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?size=626&ext=jpg&ga=GA1.1.670690934.1670350375&semt=robertav1_2_sidr",    
+      "name": "Sofia Bianchi",
+      "years_of_experience": 10,
+      "likes": 950,
+      "description": "Sofia Bianchi is a master of regional Italian cuisine. She draws inspiration from her childhood memories of her grandmother's cooking and has dedicated her career to preserving traditional recipes and techniques. Her passion for using fresh, locally-sourced ingredients is evident in every dish she creates.",
+      "recipes": [
+        {
+          "_id":21,
+          "name": "Pesto Pasta",
+          "ingredients": [
+            "pasta",
+            "basil",
+            "pine nuts",
+            "garlic",
+            "parmesan cheese"
+          ],
+          "cooking_method": "To make pesto pasta, start by cooking the pasta in boiling salted water until al dente. While the pasta is cooking, make the pesto sauce. Combine fresh basil leaves, pine nuts, minced garlic, and grated parmesan cheese in a food processor. Pulse until the mixture is finely chopped. With the food processor running, slowly add olive oil until the pesto is smooth and creamy. Drain the cooked pasta and toss with the pesto sauce until coated. Serve hot with extra parmesan cheese on top.",
+          "rating": 4.7
+        },
+        {
+          "_id":22,
+          "name": "Caprese Salad",
+          "ingredients": [
+            "tomatoes",
+            "mozzarella cheese",
+            "fresh basil",
+            "balsamic vinegar",
+            "olive oil"
+          ],
+          "cooking_method": "To make caprese salad, slice fresh tomatoes and fresh mozzarella cheese into rounds. Arrange the slices on a plate, alternating between tomato and mozzarella. Tear fresh basil leaves and sprinkle them over the top. Drizzle balsamic vinegar and olive oil over the salad. Season with salt and black pepper to taste. Serve immediately.",
+          "rating": 4.5
+        },
+        {
+          "_id":23,
+          "name": "Chicken Parmesan",
+          "ingredients": [
+            "chicken breasts",
+            "eggs",
+            "breadcrumbs",
+            "tomato sauce",
+            "mozzarella cheese"
+          ],
+          "cooking_method": "To make chicken parmesan, start by pounding chicken breasts until they are an even thickness. Beat eggs in a shallow dish. In another shallow dish, mix breadcrumbs with grated parmesan cheese. Dip each chicken breast in the egg mixture, then coat with the breadcrumb mixture. Heat olive oil in a frying pan over medium heat. Add the chicken breasts and cook until golden brown on both sides and cooked through. Preheat the oven to 375°F. Spread tomato sauce on the bottom of a baking dish. Arrange the cooked chicken breasts on top. Add more tomato sauce on top of the chicken. Cover with shredded mozzarella cheese. Bake in the oven for 20-25 minutes, until the cheese is melted and bubbly. Serve hot with a side of spaghetti.",
+          "rating": 4.9
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "picture": "https://img.freepik.com/free-photo/female-cook-showing-heart-gesture-uniform-apron-looking-happy-front-view_176474-62886.jpg?size=626&ext=jpg&ga=GA1.2.670690934.1670350375&semt=robertav1_2_sidr",
+      "name": "Isabella Conti",
+      "years_of_experience": 18,
+      "likes": 1380,
+      "description": "Isabella Conti is a rising star of the Italian food scene. Her fresh, inventive dishes are quickly gaining her a reputation as one of the most exciting young chefs in the country. She draws inspiration from her travels around the world, infusing her cooking with global flavors and techniques.",
+      "recipes": [
+        {
+          "_id":31,
+          "name": "Margherita Pizza",
+          "ingredients": [
+            "pizza dough",
+            "tomato sauce",
+            "fresh mozzarella cheese",
+            "fresh basil leaves",
+            "olive oil"
+          ],
+          "cooking_method": "To make a Margherita pizza, preheat your oven to 450°F. Roll out the pizza dough on a floured surface. Spread tomato sauce over the pizza dough, leaving a small border around the edge. Top with slices of fresh mozzarella cheese. Drizzle with olive oil. Bake in the preheated oven for 10-12 minutes, or until the crust is golden brown and the cheese is melted and bubbly. Top with fresh basil leaves before serving.",
+          "rating": 4.8
+        },
+        {
+          "_id":32,
+          "name": "Spaghetti Carbonara",
+          "ingredients": [
+            "spaghetti",
+            "pancetta",
+            "eggs",
+            "parmesan cheese",
+            "black pepper"
+          ],
+          "cooking_method": "To make Spaghetti Carbonara, start by cooking spaghetti in boiling salted water until al dente. While the spaghetti is cooking, cook diced pancetta in a frying pan over medium heat until crispy. In a bowl, whisk together eggs, grated parmesan cheese, and black pepper. Drain the cooked spaghetti and add it to the frying pan with the pancetta. Remove the pan from the heat and pour the egg mixture over the spaghetti, tossing quickly to coat the spaghetti and cook the eggs. Serve immediately with additional grated parmesan cheese and black pepper on top.",
+          "rating": 4.6
+        },
+        {
+          "_id":33,
+          "name": "Tiramisu",
+          "ingredients": [
+            "ladyfingers",
+            "espresso coffee",
+            "mascarpone cheese",
+            "heavy cream",
+            "cocoa powder"
+          ],
+          "cooking_method": "To make tiramisu, start by brewing strong espresso coffee and letting it cool. In a bowl, whisk together mascarpone cheese and heavy cream until smooth. Dip ladyfingers in the cooled espresso coffee and arrange them in a single layer in a dish. Spread a layer of the mascarpone mixture over the ladyfingers. Repeat with another layer of dipped ladyfingers and another layer of mascarpone mixture. Chill in the refrigerator for at least 2 hours, or overnight. Before serving, dust the top with cocoa powder.",
+          "rating": 4.9
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-cap-holding-bowl-with-smile-green-wall_140725-26376.jpg?size=626&ext=jpg&ga=GA1.2.670690934.1670350375&semt=robertav1_2_sidr",
+      "name": "Caterina Moretti",
+      "years_of_experience": 13,
+      "likes": 1152,
+      "description": "Caterina Moretti is a specialist in Italian desserts. Her mouth-watering creations are as beautiful as they are delicious, and she is known for her meticulous attention to detail. Her desserts are a must-try for anyone with a sweet tooth, and her restaurant is a popular destination for those seeking the perfect end to their meal.",
+      "recipes": [
+        {
+          "_id":41,
+          "name": "Pesto Pasta",
+          "ingredients": [
+            "pasta",
+            "basil leaves",
+            "garlic",
+            "pine nuts",
+            "parmesan cheese",
+            "olive oil"
+          ],
+          "cooking_method": "To make Pesto Pasta, cook pasta in boiling salted water until al dente. While the pasta is cooking, prepare the pesto sauce. In a food processor, blend together basil leaves, garlic, pine nuts, grated parmesan cheese, and olive oil until smooth. Drain the cooked pasta and reserve a cup of the pasta water. Add the pesto sauce to the pasta and toss to coat, adding pasta water as needed to thin out the sauce. Serve with additional grated parmesan cheese on top.",
+          "rating": 4.7
+        },
+        {
+          "_id":42,
+          "name": "Osso Buco",
+          "ingredients": [
+            "veal shanks",
+            "onion",
+            "carrots",
+            "celery",
+            "garlic",
+            "tomato paste",
+            "beef broth",
+            "white wine"
+          ],
+          "cooking_method": "To make Osso Buco, start by browning veal shanks in a large Dutch oven or braising pan. Remove the veal shanks from the pan and set aside. In the same pan, sauté diced onion, carrots, celery, and garlic until softened. Add tomato paste and cook for 1-2 minutes. Add beef broth and white wine and bring to a simmer. Return the veal shanks to the pan, cover, and simmer for 2-3 hours or until the meat is tender and falls off the bone. Serve with gremolata (a mixture of minced garlic, lemon zest, and chopped parsley) on top.",
+          "rating": 4.9
+        },
+        {
+          "_id":43,
+          "name": "Risotto Milanese",
+          "ingredients": [
+            "arborio rice",
+            "saffron threads",
+            "onion",
+            "white wine",
+            "parmesan cheese",
+            "butter"
+          ],
+          "cooking_method": "To make Risotto Milanese, start by toasting arborio rice in a pan with diced onion until lightly browned. Add white wine and saffron threads and cook until the wine is absorbed. Add hot chicken or vegetable broth, a ladleful at a time, stirring constantly until the broth is absorbed before adding more. Continue cooking and adding broth until the rice is creamy and tender, about 18-20 minutes. Stir in grated parmesan cheese and butter until melted and creamy. Serve immediately with additional grated parmesan cheese on top.",
+          "rating": 4.8
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?size=626&ext=jpg&ga=GA1.2.670690934.1670350375&semt=robertav1_2_sidr",
+      "name": "Marco Rossi",
+      "years_of_experience": 15,
+      "likes": 1768,
+      "description": "Marco Rossi is renowned for his creative take on classic Italian dishes. His innovative approach to cooking has earned him multiple Michelin stars, and his restaurant is a must-visit for foodies seeking a truly unforgettable dining experience.",
+      "recipes": [
+        {
+          "_id":51,
+          "name": "Margherita Pizza",
+          "ingredients": [
+            "pizza dough",
+            "tomato sauce",
+            "mozzarella cheese",
+            "fresh basil leaves",
+            "olive oil"
+          ],
+          "cooking_method": "To make Margherita Pizza, preheat your oven to 450°F. Roll out the pizza dough and transfer it to a baking sheet or pizza stone. Spread tomato sauce over the dough, leaving a small border around the edges. Sprinkle grated mozzarella cheese on top of the sauce. Tear fresh basil leaves into small pieces and sprinkle them over the cheese. Drizzle olive oil over the top. Bake for 10-12 minutes or until the crust is golden brown and the cheese is melted and bubbly. Slice and serve hot.",
+          "rating": 4.9
+        },
+        {
+          "_id":52,
+          "name": "Spaghetti Carbonara",
+          "ingredients": [
+            "spaghetti",
+            "pancetta",
+            "garlic",
+            "eggs",
+            "parmesan cheese",
+            "black pepper"
+          ],
+          "cooking_method": "To make Spaghetti Carbonara, cook spaghetti in boiling salted water until al dente. While the spaghetti is cooking, cook diced pancetta in a pan until crispy. Add minced garlic and cook for 1-2 minutes. In a separate bowl, whisk together eggs, grated parmesan cheese, and black pepper. Drain the cooked spaghetti and add it to the pan with the pancetta and garlic. Remove the pan from the heat and add the egg mixture, tossing the spaghetti quickly to coat. The heat from the spaghetti will cook the eggs and create a creamy sauce. Serve hot with additional grated parmesan cheese and black pepper on top.",
+          "rating": 4.8
+        },
+        {
+          "_id":53,
+          "name": "Tiramisu",
+          "ingredients": [
+            "ladyfingers",
+            "espresso",
+            "Marsala wine",
+            "mascarpone cheese",
+            "heavy cream",
+            "cocoa powder"
+          ],
+          "cooking_method": "To make Tiramisu, start by brewing strong espresso and adding Marsala wine. In a separate bowl, whisk together mascarpone cheese and heavy cream until light and fluffy. Dip ladyfingers in the espresso mixture and arrange them in a single layer in a dish. Spread half of the mascarpone mixture over the ladyfingers. Repeat with another layer of ladyfingers and the remaining mascarpone mixture. Cover and refrigerate for at least 2-3 hours or overnight. Before serving, dust the top with cocoa powder.",
+          "rating": 4.7
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "picture": "https://img.freepik.com/premium-photo/asian-male-chef-yellow_296537-1161.jpg?size=626&ext=jpg&ga=GA1.2.670690934.1670350375&semt=robertav1_2_sidr",
+      "name": "Giovanni Ferrari",
+      "years_of_experience": 16,
+      "likes": 1451,
+      "description": "Giovanni Ferrari is a master of rustic Italian cuisine. His hearty, comforting dishes are the epitome of traditional Italian cooking, and he is known for his passion for using only the freshest, highest-quality ingredients. His restaurant is a favorite among locals and tourists alike.",
+      "recipes": [
+        {
+          "_id":61,
+          "name": "Linguine alle Vongole",
+          "ingredients": [
+            "linguine pasta",
+            "clams",
+            "garlic",
+            "white wine",
+            "olive oil",
+            "red pepper flakes",
+            "parsley"
+          ],
+          "cooking_method": "To make Linguine alle Vongole, cook linguine pasta in boiling salted water until al dente. While the pasta is cooking, rinse and scrub the clams under cold water to remove any grit. In a large pan, heat olive oil and sauté minced garlic and red pepper flakes until fragrant. Add the clams and white wine to the pan, cover and cook until the clams open up, about 5-7 minutes. Discard any unopened clams. Drain the pasta and add it to the pan with the clams and sauce. Toss well to coat the pasta with the sauce. Garnish with chopped parsley and serve hot.",
+          "rating": 4.9
+        },
+        {
+          "_id":62,
+          "name": "Osso Buco",
+          "ingredients": [
+            "veal shanks",
+            "flour",
+            "onion",
+            "carrot",
+            "celery",
+            "tomato paste",
+            "beef broth",
+            "white wine",
+            "garlic",
+            "lemon zest",
+            "parsley"
+          ],
+          "cooking_method": "To make Osso Buco, season veal shanks with salt and pepper and dust them with flour. In a large pot, heat olive oil and sear the veal shanks until browned on both sides. Remove the veal shanks from the pot and set aside. In the same pot, sauté diced onion, carrot, celery, and minced garlic until soft. Add tomato paste, beef broth, and white wine to the pot and bring to a boil. Return the veal shanks to the pot and reduce the heat to low. Cover and simmer for 2-3 hours or until the meat is fork-tender. Before serving, garnish with lemon zest and chopped parsley.",
+          "rating": 4.8
+        },
+        {
+          "_id":63,
+          "name": "Panna Cotta",
+          "ingredients": [
+            "heavy cream",
+            "sugar",
+            "vanilla extract",
+            "gelatin",
+            "fresh berries"
+          ],
+          "cooking_method": "To make Panna Cotta, heat heavy cream and sugar in a saucepan over medium heat until the sugar dissolves. Remove from heat and stir in vanilla extract and gelatin until completely dissolved. Pour the mixture into ramekins or dessert glasses and chill in the refrigerator for at least 2-3 hours or until set. Serve with fresh berries on top.",
+          "rating": 4.7
+        }
+      ]
+    }
+]    
