@@ -18,7 +18,7 @@
             "suger"
           ],
           "cooking_method": "In a small bowl, whisk together soy sauce, rice vinegar, hoisin sauce, chili paste, sugar, cornstarch, and sesame oil.Heat vegetable oil in a wok or large skillet over high heat. Add chicken and stir-fry until browned and cooked through, about 5-7 minutes.Add garlic and ginger and stir-fry for 1 minute. Add bell peppers, celery, and green onions and stir-fry for another 2-3 minutes.Add the sauce to the wok and stir-fry for 1-2 minutes until the sauce thickens and coats the chicken and vegetables.Stir in roasted peanuts and serve hot with rice.",
-          "rating": 6.5
+          "rating": 9.5
         },
         {
           "_id":12,
@@ -67,7 +67,7 @@
             "green onions, sliced"
           ],
           "cooking_method": "In a wok or large skillet, heat the oil over high heat.Add the garlic, ginger, and ground pork, and stir-fry until the pork is no longer pink.Add the doubanjiang and Sichuan peppercorns, and stir-fry for 30 seconds.Add the tofu and chicken broth, and gently stir to combine.Bring to a boil and then reduce heat to a simmer. Cook for 5 minutes.Stir in the cornstarch mixture and continue cooking until the sauce has thickened.Garnish with sliced green onions and serve hot with rice.",
-          "rating": 4.7
+          "rating": 6.7
         },
         {
           "_id":22,
@@ -80,7 +80,7 @@
             "vegitable oil"
           ],
           "cooking_method": "In a wok or large skillet, heat the oil over medium-high heat.Add the pork belly and stir-fry until browned on all sides.Add the soy sauce, Shaoxing wine, and brown sugar, and stir to combine.Add the ginger and garlic, and stir-fry for 30 seconds.Add the water, star anise, cinnamon stick, and dried red chili peppers, and bring to a boil.Reduce heat to a simmer, cover, and cook for 1-1.5 hours, or until the pork is tender.Serve hot with steamed rice and vegetables.",
-          "rating": 4.5
+          "rating": 9.5
         },
         {
           "_id":23,
@@ -93,7 +93,7 @@
             "msesame oil"
           ],
           "cooking_method": "In a wok or large skillet, heat the oil over high heat.Add the garlic and ginger, and stir-fry for 30 seconds.Add the shrimp and stir-fry until pink and cooked through.Add the snow peas and stir-fry for 1-2 minutes, until tender-crisp.In a small bowl, whisk together the Shaoxing wine, soy sauce, cornstarch, and water.Add the sauce to the wok and stir until the sauce thickens.Stir in the sesame oil and serve hot with rice.",
-          "rating": 4.9
+          "rating": 8.9
         }
       ]
     },
@@ -116,7 +116,7 @@
             "Toasted sesame seeds for garnish"
           ],
           "cooking_method": "Cook the noodles according to package instructions, then rinse under cold water and drain well.In a small pan, heat the oil over medium heat until hot but not smoking.Add the scallions and cook until the scallions turn slightly brown and crispy.Remove from heat and let cool for a few minutes.In a small bowl, mix together the soy sauce, rice vinegar, sugar, salt, and Sichuan peppercorns (if using).Pour the scallion oil over the noodles and toss well to coat.Drizzle the sauce over the noodles and toss again.Garnish with toasted sesame seeds and serve at room temperature.",
-          "rating": 6.8
+          "rating": 9.8
         },
         {
           "_id":32,
@@ -129,7 +129,7 @@
             "black pepper"
           ],
           "cooking_method": "To make Spaghetti Carbonara, start by cooking spaghetti in boiling salted water until al dente. While the spaghetti is cooking, cook diced pancetta in a frying pan over medium heat until crispy. In a bowl, whisk together eggs, grated parmesan cheese, and black pepper. Drain the cooked spaghetti and add it to the frying pan with the pancetta. Remove the pan from the heat and pour the egg mixture over the spaghetti, tossing quickly to coat the spaghetti and cook the eggs. Serve immediately with additional grated parmesan cheese and black pepper on top.",
-          "rating": 4.6
+          "rating": 7.6
         },
         {
           "_id":33,
@@ -151,7 +151,7 @@
       "picture": "https://media.istockphoto.com/id/1450134057/photo/female-chef-holding-some-fresh-cookies.jpg?s=1024x1024&w=is&k=20&c=PMLbt3zUvEsHWSvjtk-gMlDtlD9Xgm5ZMRTF3GGNt8k=",
       "name": "Lan Guijun",
       "years_of_experience": 12,
-      "likes": 1152,
+      "likes": 1222,
       "description": "Chef Lan Guijun is a well-known Chinese chef who specializes in Cantonese cuisine. She has received many accolades for her culinary skills and has been recognized for her ability to create dishes that are both delicious and visually stunning.",
       "recipes": [
         {
@@ -165,7 +165,7 @@
             "green onions, sliced"
           ],
           "cooking_method": "In a wok or large skillet, heat the oil over high heat.Add the garlic, ginger, and ground pork, and stir-fry until the pork is no longer pink.Add the doubanjiang and Sichuan peppercorns, and stir-fry for 30 seconds.Add the tofu and chicken broth, and gently stir to combine.Bring to a boil and then reduce heat to a simmer. Cook for 5 minutes.Stir in the cornstarch mixture and continue cooking until the sauce has thickened.Garnish with sliced green onions and serve hot with rice.",
-          "rating": 4.7
+          "rating": 9.7
         },
         {
           "_id":42,
@@ -193,7 +193,7 @@
             "sugar"
           ],
           "cooking_method": "Heat the oil in a wok or large pot over high heat.Add the Sichuan peppercorns and dried red chili peppers, and stir-fry for 1-2 minutes, until fragrant.Add the garlic, ginger, and scallions, and stir-fry for another 1-2 minutes, until lightly browned.Add the fish, soy sauce, black vinegar, sugar, and salt, and stir gently to combine.Add enough water to cover the fish, and bring to a boil.Reduce heat to a simmer, and let cook for 5-10 minutes, or until the fish is cooked through and tender.Transfer to a serving dish, garnish with cilantro, and serve hot with steamed rice.",
-          "rating": 6.8
+          "rating": 7.8
         }
       ]
     },
@@ -201,22 +201,22 @@
       "id": 5,
       "picture": "https://images.unsplash.com/photo-1576237680582-75be01432ca6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
       "name": "Ming Tsai",
-      "years_of_experience": 15,
-      "likes": 1768,
+      "years_of_experience": 16,
+      "likes": 1771,
       "description": "Chef Ming Tsai is a Chinese-American chef who is known for his innovative approach to Chinese cuisine. He has won numerous awards for his culinary skills and has hosted many TV shows, including Simply Ming, where he combines Chinese and other international cuisines to create unique dishes.",
       "recipes": [
         {
           "_id":51,
-          "name": "Margherita Pizza",
+          "name": "Kung Pao Chicken Recipe",
           "ingredients": [
-            "pizza dough",
-            "tomato sauce",
-            "mozzarella cheese",
-            "fresh basil leaves",
-            "olive oil"
+            "8 cups chicken stock",
+            "1/2 cup dried wood ear mushrooms, soaked in hot water for 15 minutes and thinly sliced",
+            "sesame oil",
+            "eggs, lightly beaten",
+            "suger"
           ],
-          "cooking_method": "To make Margherita Pizza, preheat your oven to 450°F. Roll out the pizza dough and transfer it to a baking sheet or pizza stone. Spread tomato sauce over the dough, leaving a small border around the edges. Sprinkle grated mozzarella cheese on top of the sauce. Tear fresh basil leaves into small pieces and sprinkle them over the cheese. Drizzle olive oil over the top. Bake for 10-12 minutes or until the crust is golden brown and the cheese is melted and bubbly. Slice and serve hot.",
-          "rating": 4.9
+          "cooking_method": "In a small bowl, whisk together soy sauce, rice vinegar, hoisin sauce, chili paste, sugar, cornstarch, and sesame oil.Heat vegetable oil in a wok or large skillet over high heat. Add chicken and stir-fry until browned and cooked through, about 5-7 minutes.Add garlic and ginger and stir-fry for 1 minute. Add bell peppers, celery, and green onions and stir-fry for another 2-3 minutes.Add the sauce to the wok and stir-fry for 1-2 minutes until the sauce thickens and coats the chicken and vegetables.Stir in roasted peanuts and serve hot with rice.",
+          "rating": 9.9
         },
         {
           "_id":52,
@@ -230,7 +230,7 @@
             "black pepper"
           ],
           "cooking_method": "To make Spaghetti Carbonara, cook spaghetti in boiling salted water until al dente. While the spaghetti is cooking, cook diced pancetta in a pan until crispy. Add minced garlic and cook for 1-2 minutes. In a separate bowl, whisk together eggs, grated parmesan cheese, and black pepper. Drain the cooked spaghetti and add it to the pan with the pancetta and garlic. Remove the pan from the heat and add the egg mixture, tossing the spaghetti quickly to coat. The heat from the spaghetti will cook the eggs and create a creamy sauce. Serve hot with additional grated parmesan cheese and black pepper on top.",
-          "rating": 4.8
+          "rating": 7.8
         },
         {
           "_id":53,
@@ -244,7 +244,7 @@
             "cocoa powder"
           ],
           "cooking_method": "To make Tiramisu, start by brewing strong espresso and adding Marsala wine. In a separate bowl, whisk together mascarpone cheese and heavy cream until light and fluffy. Dip ladyfingers in the espresso mixture and arrange them in a single layer in a dish. Spread half of the mascarpone mixture over the ladyfingers. Repeat with another layer of ladyfingers and the remaining mascarpone mixture. Cover and refrigerate for at least 2-3 hours or overnight. Before serving, dust the top with cocoa powder.",
-          "rating": 4.7
+          "rating": 8.7
         }
       ]
     },
@@ -252,8 +252,8 @@
       "id": 6,
       "picture": "https://plus.unsplash.com/premium_photo-1666299616051-e4f0014b31a6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
       "name": "Ken Hom",
-      "years_of_experience": 16,
-      "likes": 1451,
+      "years_of_experience": 14,
+      "likes": 1431,
       "description": "Chef Ken Hom is a Chinese-British chef who has authored many cookbooks and hosted many TV shows on Chinese cuisine. He is known for his expertise in Cantonese cuisine and his ability to teach the art of Chinese cooking to home cooks.",
       "recipes": [
         {
@@ -273,22 +273,20 @@
         },
         {
           "_id":62,
-          "name": "Osso Buco",
+          "name": "Steamed Fish with Ginger and Scallions",
           "ingredients": [
-            "veal shanks",
-            "flour",
+            "whole fish, about 2 lbs, cleaned and scaled",
+            "ginger, peeled and sliced thinly",
             "onion",
             "carrot",
             "celery",
             "tomato paste",
-            "beef broth",
             "white wine",
-            "garlic",
             "lemon zest",
-            "parsley"
+            "Cilantro for garnish"
           ],
-          "cooking_method": "To make Osso Buco, season veal shanks with salt and pepper and dust them with flour. In a large pot, heat olive oil and sear the veal shanks until browned on both sides. Remove the veal shanks from the pot and set aside. In the same pot, sauté diced onion, carrot, celery, and minced garlic until soft. Add tomato paste, beef broth, and white wine to the pot and bring to a boil. Return the veal shanks to the pot and reduce the heat to low. Cover and simmer for 2-3 hours or until the meat is fork-tender. Before serving, garnish with lemon zest and chopped parsley.",
-          "rating": 4.8
+          "cooking_method": "Place the fish on a heatproof plate that will fit inside a steamer basket.In a small bowl, whisk together the ginger, scallions, soy sauce, Shaoxing wine, sugar, and salt.Pour the sauce over the fish, making sure to coat both sides.Place the plate in a steamer basket, and steam over high heat for 10-12 minutes, or until the fish is cooked through.Garnish with cilantro and serve hot with steamed rice.",
+          "rating": 8.8
         },
         {
           "_id":63,
@@ -301,7 +299,7 @@
             "fresh berries"
           ],
           "cooking_method": "To make Panna Cotta, heat heavy cream and sugar in a saucepan over medium heat until the sugar dissolves. Remove from heat and stir in vanilla extract and gelatin until completely dissolved. Pour the mixture into ramekins or dessert glasses and chill in the refrigerator for at least 2-3 hours or until set. Serve with fresh berries on top.",
-          "rating": 4.7
+          "rating": 9.7
         }
       ]
     }
