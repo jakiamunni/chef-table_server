@@ -156,16 +156,15 @@
       "recipes": [
         {
           "_id":41,
-          "name": "Pesto Pasta",
+          "name": "Mapo Tofu",
           "ingredients": [
-            "pasta",
-            "basil leaves",
-            "garlic",
-            "pine nuts",
-            "parmesan cheese",
-            "olive oil"
+            "firm tofu, cut into small cubes",
+            "ground pork",
+            "ginger, minced",
+            "ginger, minced",
+            "green onions, sliced"
           ],
-          "cooking_method": "To make Pesto Pasta, cook pasta in boiling salted water until al dente. While the pasta is cooking, prepare the pesto sauce. In a food processor, blend together basil leaves, garlic, pine nuts, grated parmesan cheese, and olive oil until smooth. Drain the cooked pasta and reserve a cup of the pasta water. Add the pesto sauce to the pasta and toss to coat, adding pasta water as needed to thin out the sauce. Serve with additional grated parmesan cheese on top.",
+          "cooking_method": "In a wok or large skillet, heat the oil over high heat.Add the garlic, ginger, and ground pork, and stir-fry until the pork is no longer pink.Add the doubanjiang and Sichuan peppercorns, and stir-fry for 30 seconds.Add the tofu and chicken broth, and gently stir to combine.Bring to a boil and then reduce heat to a simmer. Cook for 5 minutes.Stir in the cornstarch mixture and continue cooking until the sauce has thickened.Garnish with sliced green onions and serve hot with rice.",
           "rating": 4.7
         },
         {
@@ -176,27 +175,25 @@
             "onion",
             "carrots",
             "celery",
-            "garlic",
-            "tomato paste",
-            "beef broth",
-            "white wine"
+            "garlic"
+           
           ],
           "cooking_method": "To make Osso Buco, start by browning veal shanks in a large Dutch oven or braising pan. Remove the veal shanks from the pan and set aside. In the same pan, sauté diced onion, carrots, celery, and garlic until softened. Add tomato paste and cook for 1-2 minutes. Add beef broth and white wine and bring to a simmer. Return the veal shanks to the pan, cover, and simmer for 2-3 hours or until the meat is tender and falls off the bone. Serve with gremolata (a mixture of minced garlic, lemon zest, and chopped parsley) on top.",
           "rating": 4.9
         },
         {
           "_id":43,
-          "name": "Risotto Milanese",
+          "name": "Boiled Fish in Hot Chili Oil",
           "ingredients": [
-            "arborio rice",
-            "saffron threads",
-            "onion",
-            "white wine",
-            "parmesan cheese",
-            "butter"
+            "white fish fillet, cut into bite-sized pieces",
+            "Sichuan peppercorns",
+            "dried red chili peppers",
+            "scallions, thinly sliced",
+            "black vinegar",
+            "sugar"
           ],
-          "cooking_method": "To make Risotto Milanese, start by toasting arborio rice in a pan with diced onion until lightly browned. Add white wine and saffron threads and cook until the wine is absorbed. Add hot chicken or vegetable broth, a ladleful at a time, stirring constantly until the broth is absorbed before adding more. Continue cooking and adding broth until the rice is creamy and tender, about 18-20 minutes. Stir in grated parmesan cheese and butter until melted and creamy. Serve immediately with additional grated parmesan cheese on top.",
-          "rating": 4.8
+          "cooking_method": "Heat the oil in a wok or large pot over high heat.Add the Sichuan peppercorns and dried red chili peppers, and stir-fry for 1-2 minutes, until fragrant.Add the garlic, ginger, and scallions, and stir-fry for another 1-2 minutes, until lightly browned.Add the fish, soy sauce, black vinegar, sugar, and salt, and stir gently to combine.Add enough water to cover the fish, and bring to a boil.Reduce heat to a simmer, and let cook for 5-10 minutes, or until the fish is cooked through and tender.Transfer to a serving dish, garnish with cilantro, and serve hot with steamed rice.",
+          "rating": 6.8
         }
       ]
     },
@@ -261,18 +258,18 @@
       "recipes": [
         {
           "_id":61,
-          "name": "Linguine alle Vongole",
+          "name": "Stir-Fried Beef with Ginger and Scallions",
           "ingredients": [
-            "linguine pasta",
+            "flank steak, sliced thinly across the grain",
             "clams",
-            "garlic",
+            "scallions, sliced thinly on the diagonal",
             "white wine",
             "olive oil",
             "red pepper flakes",
-            "parsley"
+            "Shaoxing wine"
           ],
-          "cooking_method": "To make Linguine alle Vongole, cook linguine pasta in boiling salted water until al dente. While the pasta is cooking, rinse and scrub the clams under cold water to remove any grit. In a large pan, heat olive oil and sauté minced garlic and red pepper flakes until fragrant. Add the clams and white wine to the pan, cover and cook until the clams open up, about 5-7 minutes. Discard any unopened clams. Drain the pasta and add it to the pan with the clams and sauce. Toss well to coat the pasta with the sauce. Garnish with chopped parsley and serve hot.",
-          "rating": 4.9
+          "cooking_method": "In a wok or large skillet, heat the oil over high heat.Add the ginger and stir-fry for 30 seconds.Add the beef and stir-fry until browned on all sides.Add the scallions and stir-fry for another 30 seconds.In a small bowl, whisk together the soy sauce, Shaoxing wine, sugar, and salt.Pour the sauce over the beef and stir-fry until everything is evenly coated.Transfer to a serving dish and serve hot with steamed rice.",
+          "rating": 7.9
         },
         {
           "_id":62,
