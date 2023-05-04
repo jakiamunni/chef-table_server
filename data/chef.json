@@ -2,10 +2,10 @@
     {
       "id": 1,
       "picture": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
-      "name": " Rossi",
-      "years_of_experience": 15,
-      "likes": 1350,
-      "description": "Giovanni is a passionate chef who has been cooking Italian food for over 15 years. He loves experimenting with new ingredients and techniques to create unique and delicious dishes.",
+      "name": " Martin Yan",
+      "years_of_experience": 12,
+      "likes": 1300,
+      "description": "Chef Martin Yan is a Chinese-American chef who is known for his popular TV show Yan Can Cook and his expertise in Chinese cuisine. He has written many cookbooks and has won numerous awards for his culinary skills.",
       "recipes": [
         {
           "_id":11,
@@ -51,10 +51,10 @@
     {
       "id": 2,
       "picture": "https://plus.unsplash.com/premium_photo-1663040314023-22ec62c123a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",    
-      "name": "Sofia Bianchi",
+      "name": "Yu Bo",
       "years_of_experience": 10,
       "likes": 950,
-      "description": "Sofia Bianchi is a master of regional Italian cuisine. She draws inspiration from her childhood memories of her grandmother's cooking and has dedicated her career to preserving traditional recipes and techniques. Her passion for using fresh, locally-sourced ingredients is evident in every dish she creates.",
+      "description": "Chef Yu Bo is a highly acclaimed Chinese female chef who is known for her expertise in Sichuan cuisine. She has won numerous awards for her culinary skills and has been featured in many top publications.",
       "recipes": [
         {
           "_id":21,
@@ -100,10 +100,10 @@
     {
       "id": 3,
       "picture": "https://plus.unsplash.com/premium_photo-1664910384914-c70b3e228dcb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-      "name": "Isabella Conti",
+      "name": "Xiaoxi Li",
       "years_of_experience": 18,
       "likes": 1380,
-      "description": "Isabella Conti is a rising star of the Italian food scene. Her fresh, inventive dishes are quickly gaining her a reputation as one of the most exciting young chefs in the country. She draws inspiration from her travels around the world, infusing her cooking with global flavors and techniques.",
+      "description": "Chef Xiaoxi Li is a Chinese chef who is known for her innovative approach to traditional Chinese cuisine. She has been recognized for her skills in creating unique and flavorful dishes that blend traditional Chinese ingredients with modern techniques.",
       "recipes": [
         {
           "_id":31,
@@ -149,10 +149,10 @@
     {
       "id": 4,
       "picture": "https://media.istockphoto.com/id/1450134057/photo/female-chef-holding-some-fresh-cookies.jpg?s=1024x1024&w=is&k=20&c=PMLbt3zUvEsHWSvjtk-gMlDtlD9Xgm5ZMRTF3GGNt8k=",
-      "name": "Caterina Moretti",
+      "name": "Lan Guijun",
       "years_of_experience": 13,
       "likes": 1152,
-      "description": "Caterina Moretti is a specialist in Italian desserts. Her mouth-watering creations are as beautiful as they are delicious, and she is known for her meticulous attention to detail. Her desserts are a must-try for anyone with a sweet tooth, and her restaurant is a popular destination for those seeking the perfect end to their meal.",
+      "description": "Chef Lan Guijun is a well-known Chinese chef who specializes in Cantonese cuisine. She has received many accolades for her culinary skills and has been recognized for her ability to create dishes that are both delicious and visually stunning.",
       "recipes": [
         {
           "_id":41,
@@ -203,10 +203,10 @@
     {
       "id": 5,
       "picture": "https://images.unsplash.com/photo-1576237680582-75be01432ca6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-      "name": "Marco Rossi",
+      "name": "Ming Tsai",
       "years_of_experience": 15,
       "likes": 1768,
-      "description": "Marco Rossi is renowned for his creative take on classic Italian dishes. His innovative approach to cooking has earned him multiple Michelin stars, and his restaurant is a must-visit for foodies seeking a truly unforgettable dining experience.",
+      "description": "Chef Ming Tsai is a Chinese-American chef who is known for his innovative approach to Chinese cuisine. He has won numerous awards for his culinary skills and has hosted many TV shows, including Simply Ming, where he combines Chinese and other international cuisines to create unique dishes.",
       "recipes": [
         {
           "_id":51,
@@ -254,10 +254,10 @@
     {
       "id": 6,
       "picture": "https://plus.unsplash.com/premium_photo-1666299616051-e4f0014b31a6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-      "name": "Giovanni Ferrari",
+      "name": "Ken Hom",
       "years_of_experience": 16,
       "likes": 1451,
-      "description": "Giovanni Ferrari is a master of rustic Italian cuisine. His hearty, comforting dishes are the epitome of traditional Italian cooking, and he is known for his passion for using only the freshest, highest-quality ingredients. His restaurant is a favorite among locals and tourists alike.",
+      "description": "Chef Ken Hom is a Chinese-British chef who has authored many cookbooks and hosted many TV shows on Chinese cuisine. He is known for his expertise in Cantonese cuisine and his ability to teach the art of Chinese cooking to home cooks.",
       "recipes": [
         {
           "_id":61,
